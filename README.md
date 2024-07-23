@@ -10,13 +10,15 @@
 
 Soy un entusiasta de la tecnología y siempre estoy buscando aprender algo nuevo. Aunque soy principiante, mi pasión por la programación me impulsa a mejorar cada día. Además, me encanta trabajar en proyectos prácticos que me permiten aplicar lo que he aprendido.
 
-##Actualmente manejo las siguientes tecnologias
+## Actualmente manejo las siguientes tecnologias
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,vscode" />
   </a>
 </p>
+
+[![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoga1023)](#)
 
 ## Proyectos
 
