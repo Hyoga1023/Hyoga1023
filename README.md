@@ -52,6 +52,5 @@ cesarmartinez99@gmail.com
 ¡Gracias por visitar mi perfil! Si tienes algún consejo, proyecto interesante o simplemente quieres conectar, no dudes en contactarme.
 
 
-
   
 </p>
