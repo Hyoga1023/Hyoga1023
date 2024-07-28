@@ -30,9 +30,9 @@ Un sencillo encriptador y desencriptador de texto que convierte frases en códig
 - https://github.com/Hyoga1023/Challenge.git (https://hyoga1023.github.io/Challenge/)
 
 ### Página de Portafolio 💼
-Mi página personal de portafolio donde muestro mis proyectos y habilidades.
+Mi página personal de practica donde muestro mis proyectos y habilidades.
 - **Tecnologías usadas**: HTML, CSS
-- [Repositorio](#) (Enlace)
+- pagina-web-ivory.vercel.app/index.html
 
 ## Mis objetivos
 
