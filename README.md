@@ -27,7 +27,7 @@ Aquí hay algunos de mis proyectos recientes:
 ### Encriptador de Texto 🔐
 Un sencillo encriptador y desencriptador de texto que convierte frases en código y viceversa. Es una excelente práctica para manipulación de strings en JavaScript.
 - **Tecnologías usadas**: HTML, CSS, JavaScript
-- https://github.com/Hyoga1023/Challenge.git (https://hyoga1023.github.io/Challenge/)
+- [https://github.com/Hyoga1023/Challenge.git] (https://hyoga1023.github.io/Challenge/)
 
 ### Página de Muestra 💼
 Mi página personal de practica donde presento mis habilidades conocimientos adquiridos.
