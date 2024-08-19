@@ -29,8 +29,8 @@ Un sencillo encriptador y desencriptador de texto que convierte frases en códig
 - **Tecnologías usadas**: HTML, CSS, JavaScript
 - https://github.com/Hyoga1023/Challenge.git (https://hyoga1023.github.io/Challenge/)
 
-### Página de Portafolio 💼
-Mi página personal de practica donde muestro mis proyectos y habilidades.
+### Página de Muestra 💼
+Mi página personal de practica donde presento mis habilidades conocimientos adquiridos.
 - **Tecnologías usadas**: HTML, CSS Y JAVASCRIPT
 - [https://heroes-de-comics.vercel.app/index.html](https://heroes-de-comics.vercel.app/index.html)
 
