@@ -30,7 +30,8 @@ Un sencillo encriptador y desencriptador de texto que convierte frases en códig
 - [https://github.com/Hyoga1023/Challenge.git] (https://hyoga1023.github.io/Challenge/)
 
 ### Página de Muestra 💼
-Mi página personal de practica donde presento mis habilidades conocimientos adquiridos.
+Mi página personal de practica donde presento mis habilidades conocimientos adquiridos, además de trabajar con algo que me apasiona como son los cómics.
+
 - **Tecnologías usadas**: HTML, CSS Y JAVASCRIPT
 - [https://heroes-de-comics.vercel.app/index.html](https://heroes-de-comics.vercel.app/index.html)
 
