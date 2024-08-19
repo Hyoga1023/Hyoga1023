@@ -31,7 +31,7 @@ Un sencillo encriptador y desencriptador de texto que convierte frases en códig
 
 ### Página de Portafolio 💼
 Mi página personal de practica donde muestro mis proyectos y habilidades.
-- **Tecnologías usadas**: HTML, CSS
+- **Tecnologías usadas**: HTML, CSS Y JAVASCRIPT
 - [https://heroes-de-comics.vercel.app/index.html](https://heroes-de-comics.vercel.app/index.html)
 
 ## Mis objetivos
