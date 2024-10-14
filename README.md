@@ -16,6 +16,7 @@ Soy un entusiasta de la tecnología y siempre estoy buscando aprender algo nuevo
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,discord,linkedin,figma,github,html,js,vscode,instagram,twitter" />
   </a>
+  <br>
 </p>
 
 [![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoga1023)](#)
