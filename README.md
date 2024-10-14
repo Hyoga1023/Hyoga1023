@@ -14,7 +14,7 @@ Soy un entusiasta de la tecnología y siempre estoy buscando aprender algo nuevo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,linkedin,figma,github,html,js,vscode,instagram,twitter" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,linkedin,figma,github,html,js,xampp,vscode,instagram,twitter" />
   </a>
   <br>
 </p>
