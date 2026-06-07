@@ -81,13 +81,10 @@ Actualmente enfoco mi crecimiento profesional en el desarrollo de aplicaciones w
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Hyoga1023&hide_border=true"/>
-
-</p>
-
----
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hyoga1023&theme=tokyonight" />
+
 [![Cesar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyoga1023&theme=tokyo-night)]()
+</p>
 ---
 
 ### Automatización de Formatos Corporativos
