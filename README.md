@@ -86,6 +86,9 @@ Actualmente enfoco mi crecimiento profesional en el desarrollo de aplicaciones w
 </p>
 
 ---
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hyoga1023&theme=tokyonight" />
+[![Cesar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyoga1023&theme=tokyo-night)]()
+---
 
 ### Automatización de Formatos Corporativos
 
@@ -122,7 +125,7 @@ Actualmente fortaleciendo conocimientos en:
 - Bases de Datos
 - Ingeniería de Software
 - Programación Orientada a Objetos
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyoga1023&theme=tokyonight" />
 ---
 
 ## Certificaciones
@@ -163,14 +166,14 @@ Actualmente fortaleciendo conocimientos en:
 
 Cuando no estoy programando me gusta:
 
-- 🎮 Videojuegos
-- 🎨 Pintura al óleo y dibujo
-- 🍳 Cocina y gastronomía
-- ✈️ Viajar
-- 📚 Ciencia y tecnología
-- 🤖 Inteligencia Artificial
-- 👽 Exploración espacial y vida extraterrestre
-
+- Los Videojuegos
+- Pintura al óleo y dibujo
+- Cocina y gastronomía
+- Viajar
+- Ciencia y tecnología
+- Inteligencia Artificial
+- Exploración espacial y vida extraterrestre
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📫 Contacto
