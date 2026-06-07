@@ -1,68 +1,244 @@
-# ¡Hola! Soy Cesar Martínez 👋
+# 👋 Hola, soy César Martínez
 
-¡Bienvenido a mi rincón de GitHub! Soy un apasionado estudiante de programación, iniciándome en el emocionante mundo del desarrollo web. Actualmente estoy aprendiendo y experimentando con:
+### Software Developer | Java Developer | Process Automation | AI Enthusiast
 
-- 🌐 **HTML**: Creando la estructura y contenido de las páginas web.
-- 🎨 **CSS**: Diseñando y estilizando para hacerlas visualmente atractivas.
-- 🖥️ **JavaScript**: Añadiendo interactividad y dinamismo a mis proyectos.
+Bienvenido a mi perfil de GitHub.
+
+Soy estudiante de **Tecnología en Desarrollo de Software y Aplicativos Móviles**, apasionado por la creación de soluciones tecnológicas que aporten valor real a las personas y a las empresas.
+
+Actualmente enfoco mi crecimiento profesional en el desarrollo de aplicaciones web, backend con Java, automatización de procesos empresariales, desarrollo móvil e integración de Inteligencia Artificial.
+
+> Aprender construyendo.
+
+---
 
 ## Sobre mí
 
-Soy un entusiasta de la tecnología y siempre estoy buscando aprender algo nuevo. Aunque soy principiante, mi pasión por la programación me impulsa a mejorar cada día. Además, me encanta trabajar en proyectos prácticos que me permiten aplicar lo que he aprendido.
+- ☕ Desarrollador enfocado en Java.
+- 🌱 Aprendiz permanente de nuevas tecnologías.
+- 🏢 Desarrollo soluciones para procesos empresariales.
+- 📱 Interesado en desarrollo móvil Android.
+- 🤖 Entusiasta de la Inteligencia Artificial.
+- 🎨 Diseñador gráfico de formación.
+- 💡 Convencido de que la tecnología debe resolver problemas reales.
 
-## Actualmente manejo las siguientes tecnologias
+---
+
+## Stack Tecnológico
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,linkedin,figma,github,html,sublime,js,mysql,bootstrap,vscode,instagram,twitter" />
+    <img
+      src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,bootstrap,figma,vscode,idea,androidstudio,linkedin,discord"
+    />
   </a>
-  <br>
 </p>
 
-[![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoga1023)](#)
+---
 
-## Proyectos
+## Tecnologías que utilizo
 
-Aquí hay algunos de mis proyectos recientes:
+<table align="center">
+<tr>
+<td valign="top">
 
-### Encriptador de Texto 🔐
-Un sencillo encriptador y desencriptador de texto que convierte frases en código y viceversa. Es una excelente práctica para manipulación de strings en JavaScript.
-- **Tecnologías usadas**: HTML, CSS, JavaScript
-- [https://github.com/Hyoga1023/Challenge.git] (https://hyoga1023.github.io/Challenge/)
+### Backend
 
-### Te puedo compartir algunas muestras de páginas que he diseñado para que puedas ver mi trabajo 💼
+- Java
+- Spring Boot
+- APIs REST
+- Programación Orientada a Objetos
 
-Página de Portafolio
+</td>
 
-Esta es mi página de portafolio, donde podrás encontrar una selección de los proyectos que he creado y las tecnologías que manejo. Desde desarrollo web hasta diseño responsivo, aquí te muestro lo que he trabajado y cómo puedo ayudarte en tus proyectos.
+<td valign="top">
 
-  - **Tecnologías usadas**: HTML, CSS Y JAVASCRIPT
-  - https://portafolio1-orcin.vercel.app/
+### Front-End
 
-Página Heroes
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
 
-página personal de practica donde presento mis habilidades conocimientos adquiridos, además de trabajar con algo que me apasiona como son los cómics.
+</td>
 
-- **Tecnologías usadas**: HTML, CSS Y JAVASCRIPT
-- [https://heroes-de-comics.vercel.app/index.html](https://heroes-de-comics.vercel.app/index.html)
+<td valign="top">
 
-## Mis objetivos
+### Bases de Datos
 
-- 📚 **Aprender más** sobre frameworks de JavaScript como React.
-- 🚀 **Crear proyectos** que sean útiles y desafiantes.
-- 🤝 **Conectar** con otros desarrolladores y colaborar en proyectos interesantes.
+- MySQL
+- Diseño Relacional
+- Consultas SQL
 
-## Conéctate conmigo
+</td>
 
-cesarmartinez99@gmail.com
+</tr>
+</table>
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-<a href="https://www.linkedin.com/in/cesarmartinez99/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/cexitar_m/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/hyoga6539" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 
-¡Gracias por visitar mi perfil! Si tienes algún consejo, proyecto interesante o simplemente quieres conectar, no dudes en contactarme.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hyoga1023&show_icons=true&hide_border=true&rank_icon=github"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyoga1023&layout=compact&hide_border=true"/>
 
-  
 </p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hyoga1023&hide_border=true"/>
+
+</p>
+
+---
+
+## Soluciones y Proyectos
+
+### Sistema de Gestión y Acompañamiento
+
+Aplicación desarrollada para gestionar visitas empresariales y generar documentación asociada al proceso.
+
+#### Funcionalidades
+
+- Registro de visitas
+- Generación de actas
+- Exportación a PDF
+- Exportación a Excel
+- Gestión de información empresarial
+
+---
+
+### Automatización de Formatos Corporativos
+
+Herramientas orientadas a digitalizar y optimizar procesos administrativos empresariales.
+
+#### Funcionalidades
+
+- Formularios dinámicos
+- Validación de datos
+- Automatización documental
+- Optimización de procesos
+- Reducción de tareas manuales
+
+---
+
+### Portafolio Profesional
+
+Sitio web donde presento proyectos, tecnologías y experiencia en desarrollo de software.
+
+🔗 **Demo:**  
+https://portafolio1-orcin.vercel.app/
+
+---
+
+## Formación Académica
+
+### Tecnología en Desarrollo de Software y Aplicativos Móviles
+
+Actualmente fortaleciendo conocimientos en:
+
+- Arquitectura de Software
+- Desarrollo Backend
+- Desarrollo Front-End
+- Desarrollo Móvil
+- Bases de Datos
+- Ingeniería de Software
+- Programación Orientada a Objetos
+
+---
+
+## Certificaciones
+
+- Microsoft Copilot AI
+- Google Gemini AI
+- Desarrollo Front-End
+- Desarrollo de Software
+
+---
+
+## Actualmente Aprendiendo
+
+- Spring Boot Avanzado
+- Arquitectura de Software
+- React
+- Desarrollo Android
+- Inteligencia Artificial aplicada al desarrollo
+- Buenas prácticas y patrones de diseño
+
+---
+
+## Áreas de Interés
+
+- Inteligencia Artificial
+- Desarrollo de Software
+- Automatización de Procesos
+- Ciencia y Tecnología
+- Desarrollo Web
+- Desarrollo Backend
+- Desarrollo Móvil
+- UX/UI
+- Exploración Espacial
+
+---
+
+## Más allá del código
+
+Cuando no estoy programando me gusta:
+
+- 🎮 Videojuegos
+- 🎨 Pintura al óleo y dibujo
+- 🍳 Cocina y gastronomía
+- ✈️ Viajar
+- 📚 Ciencia y tecnología
+- 🤖 Inteligencia Artificial
+- 👽 Exploración espacial y vida extraterrestre
+
+---
+
+## 📫 Contacto
+
+📧 **Correo electrónico**
+
+```text
+cesarmartinez99@gmail.com
+```
+
+---
+
+## 🌐 Conéctate conmigo
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/cesarmartinez99/" target="_blank">
+<img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+</a>
+
+<a href="https://www.instagram.com/cexitar_m/" target="_blank">
+<img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
+</a>
+
+<a href="https://discordapp.com/users/hyoga6539" target="_blank">
+<img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### El software transforma ideas en soluciones y los problemas en oportunidades de aprendizaje.
+
+</p>
+
+---
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hyoga1023&theme=algolia&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+Gracias por visitar mi perfil. Aquí encontrarás proyectos, aprendizajes y soluciones que reflejan mi evolución constante como desarrollador.
+
+![](https://komarev.com/ghpvc/?username=Hyoga1023&color=blue)
