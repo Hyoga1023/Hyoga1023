@@ -79,21 +79,7 @@ Actualmente enfoco mi crecimiento profesional en el desarrollo de aplicaciones w
 
 ## GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hyoga1023&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyoga1023&layout=compact&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Hyoga1023&hide_border=true"/>
-
-</p>
-
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hyoga1023&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Soluciones y Proyectos
 
@@ -235,10 +221,6 @@ cesarmartinez99@gmail.com
 </p>
 
 ---
-## GitHub Trophies
+## Actividad
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hyoga1023&theme=algolia&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-Gracias por visitar mi perfil. Aquí encontrarás proyectos, aprendizajes y soluciones que reflejan mi evolución constante como desarrollador.
-
-![](https://komarev.com/ghpvc/?username=Hyoga1023&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Hyoga1023&color=blue)
