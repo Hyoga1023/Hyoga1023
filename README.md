@@ -79,21 +79,11 @@ Actualmente enfoco mi crecimiento profesional en el desarrollo de aplicaciones w
 
 ## GitHub Analytics
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hyoga1023&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
 
-## Soluciones y Proyectos
+<img src="https://streak-stats.demolab.com?user=Hyoga1023&hide_border=true"/>
 
-### Sistema de Gestión y Acompañamiento
-
-Aplicación desarrollada para gestionar visitas empresariales y generar documentación asociada al proceso.
-
-#### Funcionalidades
-
-- Registro de visitas
-- Generación de actas
-- Exportación a PDF
-- Exportación a Excel
-- Gestión de información empresarial
+</p>
 
 ---
 
