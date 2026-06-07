@@ -105,7 +105,7 @@ Herramientas orientadas a digitalizar y optimizar procesos administrativos empre
 
 Sitio web donde presento proyectos, tecnologías y experiencia en desarrollo de software.
 
-[https://portafolio1-orcin.vercel.app/](https://hyoga1023.github.io/Portafolio/)
+[https://hyoga1023.github.io/Portafolio/](https://hyoga1023.github.io/Portafolio/)
 
 ---
 
