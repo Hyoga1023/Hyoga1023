@@ -122,7 +122,13 @@ Actualmente fortaleciendo conocimientos en:
 - Bases de Datos
 - Ingeniería de Software
 - Programación Orientada a Objetos
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hyoga1023&theme=tokyonight" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Hyoga1023&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyoga1023&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## Certificaciones
