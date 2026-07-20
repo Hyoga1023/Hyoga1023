@@ -123,11 +123,7 @@ Actualmente fortaleciendo conocimientos en:
 - Ingeniería de Software
 - Programación Orientada a Objetos
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hyoga1023&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyoga1023&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hyoga1023&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 ---
 
