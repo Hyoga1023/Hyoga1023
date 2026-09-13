@@ -14,7 +14,7 @@ Actualmente enfoco mi crecimiento profesional en el desarrollo de aplicaciones w
 
 ## Sobre mí
 
-- ☕ Desarrollador enfocado en Java.
+- ☕ Desarrollador enfocado en diseño FrontEnd.
 - 🌱 Aprendiz permanente de nuevas tecnologías.
 - 🏢 Desarrollo soluciones para procesos empresariales.
 - 📱 Interesado en desarrollo móvil Android.
