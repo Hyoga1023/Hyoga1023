@@ -83,7 +83,6 @@ Actualmente enfoco mi crecimiento profesional en el desarrollo de aplicaciones w
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hyoga1023&theme=tokyonight" />
 
-[![Cesar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hyoga1023&theme=tokyo-night)]()
 </p>
 ---
 
